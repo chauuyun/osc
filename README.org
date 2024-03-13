@@ -4,6 +4,7 @@
 |----------------|------------|----------------|
 | chauuyun       | A122073    | Chiao-Yun Hung |
 
+
 ## Requirements
 
 Using lab0/install_env.sh for the tools
@@ -36,3 +37,10 @@ Lab6: Virtual Memory
 Lab7: Virtual File System
 
 Lab8: Non-volatile Storage
+
+## How to upload lab in Github
+
+ git add .
+ git commit -m "some message"
+ git push
+
