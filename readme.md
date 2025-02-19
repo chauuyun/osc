@@ -1,6 +1,6 @@
 # Bare metal OS kernel for Raspberry Pi 3B+
 
-## Intrduction
+## Introduction
 - Technologies Used: Raspberry Pi 3B+, C, Assembly, Ubuntu, QEMU
 1. Developed a custom OS kernel in C and Assembly featuring UART and GPIO integration with a mailbox mechanism for efficient CPU–peripheral communication.
 2. Engineered robust exception and interrupt handling—including ARMv8-A exception level transitions, vector table setup, core timer interrupts, and asynchronous mini UART I/O.
